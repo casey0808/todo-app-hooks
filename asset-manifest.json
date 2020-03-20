@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/todo-app-hooks/static/css/main.27fd15f6.chunk.css",
+    "main.js": "/todo-app-hooks/static/js/main.65b69ee2.chunk.js",
+    "main.js.map": "/todo-app-hooks/static/js/main.65b69ee2.chunk.js.map",
+    "runtime-main.js": "/todo-app-hooks/static/js/runtime-main.dc0e55f8.js",
+    "runtime-main.js.map": "/todo-app-hooks/static/js/runtime-main.dc0e55f8.js.map",
+    "static/js/2.02a1530c.chunk.js": "/todo-app-hooks/static/js/2.02a1530c.chunk.js",
+    "static/js/2.02a1530c.chunk.js.map": "/todo-app-hooks/static/js/2.02a1530c.chunk.js.map",
+    "index.html": "/todo-app-hooks/index.html",
+    "precache-manifest.b071e8c5af5e22d2a60cf1eb93bd04f4.js": "/todo-app-hooks/precache-manifest.b071e8c5af5e22d2a60cf1eb93bd04f4.js",
+    "service-worker.js": "/todo-app-hooks/service-worker.js",
+    "static/css/main.27fd15f6.chunk.css.map": "/todo-app-hooks/static/css/main.27fd15f6.chunk.css.map",
+    "static/js/2.02a1530c.chunk.js.LICENSE.txt": "/todo-app-hooks/static/js/2.02a1530c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc0e55f8.js",
+    "static/js/2.02a1530c.chunk.js",
+    "static/css/main.27fd15f6.chunk.css",
+    "static/js/main.65b69ee2.chunk.js"
+  ]
+}
